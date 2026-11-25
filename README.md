@@ -20,4 +20,5 @@
 <img align="left" alt="haskell" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="40" height="40">
 
 </ul>
+
 [![LeticiaBN em Stargazzing](https://strovertz.github.io/stargazzing/cards/leticiabn.svg)](https://strovertz.github.io/stargazzing/?u=LeticiaBN)
